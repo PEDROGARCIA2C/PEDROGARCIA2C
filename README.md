@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá eu sou o Garcia, estudo no Francisco Cristiano e estou na 2 seríe do Ensino Médio 👋
 
 <!--
 **PEDROGARCIA2C/PEDROGARCIA2C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
